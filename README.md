@@ -1,6 +1,6 @@
 # NepSwap
 
-White Paper
+# White Paper
 
 This is Protocol for trading NEP based assets, in near future, it will be able to process, orderbook, deposits/withdrawals, trade, placeOrder and many more exciting things that a respected exchange protocol would have. 
 At first it will be a simple contract, which will be able to swap tokens between users, keep orders queue, swap with contrat's value (if it has some, if not swap with users or place in a queue). 
@@ -14,7 +14,7 @@ So far only couple of basic functions has been ported to .NET Core.
 Full port is expected to be completed within 1-2 weeks, as the whole project took roughly 3 days in total, due to the lack of personal time.
 
 
-Short Documentation:
+# Short Documentation:
 
   - public static bool withdrawAsset (string name, ulong quantity)
  
