@@ -1,0 +1,5 @@
+C:\Users\KKK\source\repos\NeoContract2\NeoContract2\bin\Release\NeoContract2.dll
+C:\Users\KKK\source\repos\NeoContract2\NeoContract2\bin\Release\Neo.SmartContract.Framework.dll
+C:\Users\KKK\source\repos\NeoContract2\NeoContract2\obj\Release\NeoContract2.csproj.CoreCompileInputs.cache
+C:\Users\KKK\source\repos\NeoContract2\NeoContract2\obj\Release\NeoContract2.dll
+C:\Users\KKK\source\repos\NeoContract2\NeoContract2\obj\Release\NeoContract2.csprojResolveAssemblyReference.cache

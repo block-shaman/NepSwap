@@ -1,0 +1,6 @@
+c:\users\kkk\source\repos\NeoContract2\NeoContract2\obj\Debug\NeoContract2.csproj.CoreCompileInputs.cache
+c:\users\kkk\source\repos\NeoContract2\NeoContract2\bin\Debug\NeoContract2.dll
+c:\users\kkk\source\repos\NeoContract2\NeoContract2\bin\Debug\NeoContract2.pdb
+c:\users\kkk\source\repos\NeoContract2\NeoContract2\bin\Debug\Neo.SmartContract.Framework.dll
+c:\users\kkk\source\repos\NeoContract2\NeoContract2\obj\Debug\NeoContract2.dll
+c:\users\kkk\source\repos\NeoContract2\NeoContract2\obj\Debug\NeoContract2.pdb
